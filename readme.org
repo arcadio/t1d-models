@@ -1,0 +1,7 @@
+To access materials, download encrypted tarball from the [[https://github.com/arcadio/t1d-models/releases/latest/download/t1d-models.tar.gz.gpg][latest release]].
+
+Decrypt using GnuPG: ~gpg -d t1d-models.tar.gz.gpg >t1d-models.tar.gz~
+
+Use the passphrase attached to the manuscript.
+
+Lastly, unpack tarball: ~tar -xf t1d-models.tar.gz~
